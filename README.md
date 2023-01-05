@@ -1,6 +1,10 @@
-## YasakaKanoko 👋
+## YasakaKanoko 
 
-[![YasakaKanoko's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasakaKanoko)](https://github.com/YasakaKanoko)
+<a href="#">
+  <img align="right" src='https://github-readme-stats.vercel.app/api?username=YasakaKanoko&show_icons=true&theme=material-palenight&hide=contribs'>
+  
+</a>
+
 <!--
 **YasakaKanoko/YasakaKanoko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
