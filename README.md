@@ -3,7 +3,7 @@
 ## YasakaKanoko
 
 <p>
-  <a href="#">
+  <a href="https://github.com/YasakaKanoko/">
     <img align="right" src='https://github-readme-stats.vercel.app/api?username=YasakaKanoko&show_icons=true&theme=material-palenight&hide=contribs'>
   </a>
 
