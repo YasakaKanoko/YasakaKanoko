@@ -68,8 +68,7 @@
 </p>
 
 ---
-
-I'm a front end developer currently based in China.If you happen to speak Chinese,you can follow me on
+Hi, I'm YasakaKanoko, a front-end developer currently based in China with 2 years of experience. My focus is on HTML, CSS, and JavaScript, as well as frameworks like React, Vue.js, and Angular. I have worked on various projects, from small business websites to large-scale e-commerce platforms. I am organized and detail-oriented, and always strive to deliver quality work within deadlines. I enjoy learning about new trends and techniques in the industry and am open to new challenges. <br> You can contact me at xiesj2001@gmail.com <br> If you happen to speak Chinese,you can follow me on
 [Twitter](https://twitter.com/YasakaKanoko).
 
 <!--
