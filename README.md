@@ -1,4 +1,4 @@
-# About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Stay+Hungry%2C+Stay+Foolish.)](https://git.io/typing-svg)
 
 ## YasakaKanoko
 
