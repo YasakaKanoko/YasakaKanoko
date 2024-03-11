@@ -1,78 +1,66 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Stay+Hungry%2C+Stay+Foolish.)](https://git.io/typing-svg)
+<!-- https://github.com/YasakaKanoko/ -->
 
-## YasakaKanoko
-
-<p>
-  <a href="https://github.com/YasakaKanoko/">
-    <img align="right" src='https://github-readme-stats.vercel.app/api?username=YasakaKanoko&show_icons=true&theme=material-palenight&hide=contribs'>
-  </a>
-
-- 👋 Hi, I'm [@YasakaKanoko](https://twitter.com/YasakaKanoko).
-- 🔭 I'm currently working on [Vue](https://vuejs.org/) | [React](https://react.dev/) |
-  [Node](https://nodejs.org/en).
-- 🌱 I'm currently learning [Spring](https://spring.io/).
-- 📫 How to reach me: xiesj2001@gmail.com.
-
-  <br/>
+<!-- Add a bio to my profile -->
+<p align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Stay+Hungry%2C+Stay+Foolish."
+            alt="Typing SVG" />
+    </a>
 </p>
 
-
-## Languages
+<!-- Self-Introduction -->
+<p align="center">
+  <samp>
+        &gt; Hi there, I'm <a target="_blank" href="https://t.me/YasakaKanoko">YasakaKanoko</a>.
+  </samp>
+</p>
+<br>
+<p align="center">
+   <samp>「A full stack Software Developer」 </samp>
+</p>
+<br>
 
 <p align="center">
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=HTML5&text=false&animation=spin&fill=E34F26">
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=CSS3&text=false&animation=spin&fill=659FC9">
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=JavaScript&text=false&animation=spin&fill=FCDC00">
-  </a>
-  
-  <a href="https://jquery.com/">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=jQuery&text=false&animation=spin&fill=175C9F">
-  </a>
-
-  <a href="https://vuejs.org/">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=Vue.js&text=false&animation=spin&fill=48BE84">
-  </a>
-
-  <a href="https://react.dev/">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=React&text=false&animation=spin&fill=179DCE">
-  </a>
-
-  <a href="https://nodejs.org/en">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=Node.js&text=false&animation=spin&fill=68A05D">
-  </a>
-
-  <a href="https://www.mongodb.com/">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=MongoDB&text=false&animation=spin&fill=00E862">
-  </a>
-
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=TypeScript&text=false&animation=spin&fill=2F74C0">
-  </a>
-
-  <a href="https://getbootstrap.com/">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=BootStrap&text=false&animation=spin&fill=7611F7">
-  </a>
-
-  <a href="https://tailwindcss.com/">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=TailwindCSS&text=false&animation=spin&fill=3CBEF8">
-  </a>
-
+    <a target="_blank" href="https://github.com/piyushsuthar/github-readme-quotes">
+        <!-- quote= your quote -->
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=我相信它会飞到台面上，而不是进我的回收站。" />
+    </a>
 </p>
 
----
-I enjoy learning about new trends and techniques in the industry and am open to new challenges. If you happen to speak Chinese,you can follow me on
-[Twitter](https://twitter.com/YasakaKanoko).
+
+<details align="center">
+    <summary>
+        <samp>More</samp>
+    </summary>
+    <p align="center">
+        <img alt="YasakaKanoko's GitHub Stats"
+            src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YasakaKanoko&theme=github">
+        <a href="https://steamcommunity.com/profiles/76561198417411738">
+            <img alt="YasakaKanoko's Steam Card" width="700"
+                src="https://card.yuy1n.io/card/76561198417411738/gradient3,en,badge,group">
+        </a>
+    </p>
+</details>
+
+<br>
+<p align="center"> 
+<samp>Language</samp>
+  <br>
+  <br>
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=JavaScript&logoColor=black">
+  <img alt="Vue.js" src="https://img.shields.io/badge/-vue.js-3FB27F?style=flat-square&logo=vue.js&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/-React-5ED3F3?style=flat-square&logo=React&logoColor=black">
+  <img alt="nodejs"src="https://img.shields.io/badge/-Nodejs-6AB64A?style=flat-square&logo=node.js&logoColor=white">
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-3ABEF8?style=flat-square&logo=Tailwindcss&logoColor=white">
+  <img alt="BootStrap" src="https://img.shields.io/badge/-BootStrap-7B11F3?style=flat-square&logo=BootStrap&logoColor=white">
+</p>
+
+<br>
+
+
+            
 
 <!--
-
 **YasakaKanoko/YasakaKanoko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -85,5 +73,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-  -->
+-->
