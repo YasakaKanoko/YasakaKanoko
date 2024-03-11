@@ -16,7 +16,7 @@
 </p>
 <br>
 <p align="center">
-   <samp>「A full stack Software Developer」 </samp>
+   <samp>「A full stack Developer」 </samp>
 </p>
 <br>
 
@@ -44,7 +44,7 @@
 
 <br>
 <p align="center"> 
-<samp>Language</samp>
+<samp>&gt; Language</samp>
   <br>
   <br>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=JavaScript&logoColor=black">
