@@ -20,6 +20,7 @@
 </p>
 <br>
 
+<!-- A quote -->
 <p align="center">
     <a target="_blank" href="https://github.com/piyushsuthar/github-readme-quotes">
         <!-- quote= your quote -->
@@ -27,7 +28,7 @@
     </a>
 </p>
 
-
+<!-- More -->
 <details align="center">
     <summary>
         <samp>More</samp>
@@ -43,6 +44,7 @@
 </details>
 
 <br>
+<!-- Language -->
 <p align="center"> 
 <samp>&gt; Language</samp>
   <br>
