@@ -24,7 +24,7 @@
 <p align="center">
     <a target="_blank" href="https://github.com/piyushsuthar/github-readme-quotes">
         <!-- quote= your quote -->
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=我相信它会飞到台面上，而不是进我的回收站。" />
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Two%20men%20look%20out%20through%20the%20same%20bars;One%20sees%20the%20mud,%20and%20one%20the%20stars." />
     </a>
 </p>
 
@@ -36,10 +36,12 @@
     <p align="center">
         <img alt="YasakaKanoko's GitHub Stats"
             src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YasakaKanoko&theme=github">
+        <!--
         <a href="https://steamcommunity.com/profiles/76561198417411738">
             <img alt="YasakaKanoko's Steam Card" width="700"
                 src="https://card.yuy1n.io/card/76561198417411738/gradient3,en,badge,group">
         </a>
+        -->
     </p>
 </details>
 
