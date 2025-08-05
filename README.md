@@ -14,7 +14,7 @@
 - <samp>🌱 I’m currently learning <img src="https://img.shields.io/badge/Rust-%23000000.svg?e&logo=Rust&logoColor=white" alt="Rust" style="display: inline-block;" />&nbsp;, and so on.</samp>
 - <samp>📫 How to reach me:  [email me](mailto:shuiyuan5173@gmail.com)</samp>
 
-<img src="https://www.loliapi.com/acg/" alt="acg"/>
+<img src="https://fastly.jsdelivr.net/gh/YasakaKanoko/charlotte@main/post/1752917116.webp" alt="acg"/>
 
 <p align="center">
     <samp>&gt; Stacks</samp><br /><br />
