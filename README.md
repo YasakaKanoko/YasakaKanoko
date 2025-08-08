@@ -4,7 +4,7 @@
 
 [![GitHub](https://img.shields.io/github/followers/YasakaKanoko?logo=github&style=flat-square)](https://github.com/yasakakanoko)
 [![blog](https://img.shields.io/badge/blog-Atmosphere-9cf?style=flat-square)](https://yasakakanoko.github.io/)
-
+[![wakatime](https://wakatime.com/badge/user/cc71bc64-b04a-4d52-b7eb-ff222b01744f.svg)](https://wakatime.com/@cc71bc64-b04a-4d52-b7eb-ff222b01744f)
 <br />
 
 <samp>I'm [shuiyuan](https://yasakakanoko.github.io/). I love to learn and build things. I hope I can become a full stack developer one day.</samp>
