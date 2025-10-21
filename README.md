@@ -23,7 +23,7 @@
   <samp>&gt; 📫 How to Reach Me</samp><br /><br />
   <a href="https://x.com/YasakaKanoko" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X" style="display: inline-block;"/></a>
   <a href="https://t.me/yasakakanoko" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0.svg?logo=telegram&logoColor=white" alt="telegram" style="display: inline-block;"/></a>
-  <a mailto:shuiyuan5173@gmail.com><img src="https://img.shields.io/badge/Email-white.svg?logo=gmail&logoColor=ea4335"/></a>
+  <a href="mailto:xsjcool@gmail.com"><img src="https://img.shields.io/badge/Email-white.svg?logo=gmail&logoColor=ea4335"/></a>
 </p>
 <br /><br />
 
